@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dia Mundial da Tradução</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f8ff;
+        }
+        header {
+            background: #007BFF;
+            color: white;
+            padding: 15px 20px;
+            text-align: center;
+        }
+        nav {
+            margin: 10px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            color: white;
+            text-decoration: none;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 15px 0;
+            background: #007BFF;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        h2 {
+            color: #007BFF;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Dia Mundial da Tradução</h1>
+    <nav>
+        <a href="https://ibtlibras.com.br/?gad_source=1&gclid=Cj0KCQjwxsm3BhDrARIsAMtVz6ObuXBQtRhA5aYajUBdIEv73uLuLdq-dcL5hQ-B0_HT8n4GmYr15AkaAih3EALw_wcB">Libras Mudando Vidas</a>
+        <a href="https://pt.wikipedia.org/wiki/Dia_Internacional_da_Tradu%C3%A7%C3%A3o#:~:text=Dia%20Internacional%20da%20Tradu%C3%A7%C3%A3o%20%C3%A9,crescer%20de%20ano%20para%20ano.">Visite o Artigo:Dia internacional da Tradução</a>
+    </nav>
+</header>
+
+<div class="container">
+    <section id="sobre">
+        <h2>O que é a Tradução?</h2>
+        <p>A tradução é o processo de converter texto ou fala de uma língua para outra. Este ato não é apenas uma troca de palavras; envolve uma compreensão profunda do contexto cultural e linguístico. Tradutores devem ser proficientes em ambas as línguas, além de conhecer as sutilezas que podem afetar o significado.</p>
+    </section>
+
+    <section id="importancia">
+        <h2>Por que a Tradução é Importante?</h2>
+        <p>A tradução é essencial por diversas razões:</p>
+        <ul>
+            <li><strong>Comunicação Global:</strong> Facilita a comunicação entre pessoas de diferentes culturas e países.</li>
+            <li><strong>Comércio Internacional:</strong> Permite que empresas se expandam para novos mercados e alcancem clientes em todo o mundo.</li>
+            <li><strong>Cultura e Conhecimento:</strong> Ajuda na disseminação de literatura, ciência e arte, enriquecendo o entendimento cultural.</li>
+            <li><strong>Inclusão:</strong> Garante que informações importantes, como saúde e segurança, sejam acessíveis a todos, independentemente da língua falada.</li>
+        </ul>
+        <p>O Dia Mundial da Tradução, comemorado em 30 de setembro, celebra o papel fundamental dos tradutores e a importância da tradução em nossa sociedade global.</p>
+    </section>
+</div>
+
+<footer>
+    <p>&copy; 2024 Dia Mundial da Tradução. Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
